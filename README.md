@@ -1,2 +1,2 @@
 # nlw-experts
-Trilha HTML, CSS e JAVASCRIPT
+Trilha HTML, CSS e JavaScript
